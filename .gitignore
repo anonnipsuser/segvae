@@ -1,0 +1,13 @@
+.idea
+.ipynb_checkpoints
+logs
+wandb
+wandb_key
+
+# swap files
+*~
+*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
